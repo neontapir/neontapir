@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on authentication
 - 💬 Ask me about programming, management, leadership, agile, and lean
 - ⚙️ I use these daily: `.rb`, `.js`, `.erb`, `.html`, `.scss`, `.json`, `.yml`, `.sql`, `.adoc`, `.md`
-- 📫 Tweet me: <a href="https://twitter.com/ChuckDurfee/">Twitter</a>
+- 📫 <a href="https://twitter.com/ChuckDurfee/">Tweet me</a>
 - 💜 Interests: science fiction, foodie, 🐶 my dogs
 - 😄 [pronoun.is/he](http://pronoun.is/he)
 
