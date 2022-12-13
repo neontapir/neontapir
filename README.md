@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚙️ I use these daily: `.rb`, `.js`, `.erb`, `.html`, `.scss`, `.json`, `.yml`, `.sql`, `.adoc`, `.md`
 - 📫 Say hello on [Mastodon](https://ruby.social/@neontapir)
 - 💜 Interests: science fiction, foodie, 🐶 my dogs
-- 😄 [pronoun.is/he](http://pronoun.is/he)
+- 😄 Pronouns: [he/him](http://pronouns.org/he)
 
 ---
 
