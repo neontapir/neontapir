@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 #### I'm an Engineering Manager based in Denver, Colorado.
 
 - 🔭 I’m currently working on authentication
-- 💬 Ask me about programming, management, leadership, agile, and lean
+- 💬 Ask me about leadership, programming, management, agile, and lean
 - ⚙️ I use these daily: `.rb`, `.js`, `.erb`, `.html`, `.scss`, `.json`, `.yml`, `.sql`, `.adoc`, `.md`
-- 📫 <a href="https://twitter.com/ChuckDurfee/">Tweet me</a>
+- 📫 Say hello on [Mastodon](https://ruby.social/@neontapir)
 - 💜 Interests: science fiction, foodie, 🐶 my dogs
 - 😄 [pronoun.is/he](http://pronoun.is/he)
 
