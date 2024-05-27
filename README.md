@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 ### Hi, I'm Chuck 👋
 ---
 
-#### I'm an Engineering Manager based in Denver, Colorado.
+#### I'm a Product Manager based in Denver, Colorado.
 
-- 🔭 I’m currently working on authentication
-- 💬 Ask me about leadership, programming, management, agile, and lean
+- 🔭 I’m currently working on identity and access management.
+- 💬 Ask me about engineering leadership, programming, management, agile, and lean
 - ⚙️ I use these daily: `.rb`, `.js`, `.erb`, `.html`, `.scss`, `.json`, `.yml`, `.sql`, `.adoc`, `.md`
 - 📫 Say hello on [Mastodon](https://ruby.social/@neontapir)
 - 💜 Interests: science fiction, foodie, 🐶 my dogs
