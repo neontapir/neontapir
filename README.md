@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on identity and access management.
 - 💬 Ask me about engineering leadership, programming, management, agile, and lean
-- ⚙️ I use these daily: `.rb`, `.js`, `.erb`, `.html`, `.scss`, `.json`, `.yml`, `.sql`, `.adoc`, `.md`
+- ⚙️ I use these regularly: `.py`, `.adoc`, `.md`, and these occassionally: `.rb`, `.js`, `.erb`, `.html`, `.scss`, `.json`, `.yml`, `.sql`. 
 - 📫 Say hello on [Mastodon](https://ruby.social/@neontapir)
 - 💜 Interests: science fiction, foodie, 🐶 my dogs
 - 😄 Pronouns: [he/him](http://pronouns.org/he)
